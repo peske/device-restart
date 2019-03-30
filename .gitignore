@@ -1,0 +1,7 @@
+.vs/
+DeviceRestart/bin/
+DeviceRestart/obj/
+DeviceRestartLib/bin/
+DeviceRestartLib/obj/
+packages/
+*.user
